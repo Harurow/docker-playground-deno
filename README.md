@@ -19,6 +19,7 @@
 
 以下のVisual Studio Code 拡張をインストール
 
+* EditorConfig.EditorConfig
 * denoland.vscode-deno
 
 ## 使い方
