@@ -1,4 +1,3 @@
-# FROM --platform=linux/amd64 mcr.microsoft.com/devcontainers/base:0-bullseye
 FROM --platform=linux/amd64 debian:bullseye-slim
 
 ARG USERNAME=vscode
